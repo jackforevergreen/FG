@@ -8,7 +8,7 @@ function App() {
         <h1>
           FOREVERGREEN REACT APP !
         </h1>
-        <p> I am learning how to deploy web apps with react!</p>
+        <p> I am learning how to deploy web apps with react fr :D</p>
 
 
       </header>
