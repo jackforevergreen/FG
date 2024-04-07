@@ -6,8 +6,11 @@ function App() {
     <div className="App">
       <header className="App-header">
         <h1>
-          FOREVERGREEN REACT APP!
+          FOREVERGREEN REACT APP !
         </h1>
+        <p> I am learning how to deploy web apps with react!</p>
+
+
       </header>
     </div>
   );
